@@ -12,6 +12,8 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/wide_deep
 ### dfm
 
 
+https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
+
 
 ### din
 
