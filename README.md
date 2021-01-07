@@ -35,6 +35,6 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 
 
 
-参考资料：
+参考资料：  
 https://github.com/PaddlePaddle/PaddleRec  
 https://www.jianshu.com/u/c5df9e229a67
