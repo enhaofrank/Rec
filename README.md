@@ -32,10 +32,19 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 3.[协同过滤推荐算法（一）原理与实现](https://blog.csdn.net/likeyou1314918273/article/details/89607596)  
 4.[协同过滤推荐算法总结](https://www.cnblogs.com/pinard/p/6349233.html)  
 
-### din
+### din  
+1.[推荐系统中的注意力机制——阿里深度兴趣网络（DIN）](https://zhuanlan.zhihu.com/p/51623339)  
+2.[推荐系统---深度兴趣网络DIN&DIEN](https://www.cnblogs.com/zhaoweiblog/p/10268763.html)  
+3.[注意力机制在深度推荐算法中的应用之DIN模型](https://zhuanlan.zhihu.com/p/139417423)  
+4.[捕捉用户兴趣演化--DIEN论文解读](https://www.msedt.com/infoflow/details/1067)  
+5.[基于用户兴趣的商品推荐算法--DIN论文解读](https://blog.csdn.net/qzh459927216/article/details/111382916)  
+6.[]()  
 
    
-   
+### 总结类文章  
+1.[推荐算法相关](https://www.cnblogs.com/code2one/p/10366238.html)  
+2.[推荐系统遇上深度学习](http://ddrv.cn/a/40050)  
+
    
       
 
