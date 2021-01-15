@@ -2,10 +2,7 @@
 
 
 ### wide&deep
-《Wide & Deep Learning for Recommender Systems》是Google 2016年发布的推荐框架，wide&deep设计了一种融合浅层（wide）模型和深层（deep）模型进行联合训练的框架，综合利用浅层模型的记忆能力和深层模型的泛化能力，实现单模型对推荐系统准确性和扩展性的兼顾。从推荐效果和服务性能两方面进行评价：
-
-效果上，在Google Play 进行线上A/B实验，wide&deep模型相比高度优化的Wide浅层模型，app下载率+3.9%。相比deep模型也有一定提升。
-性能上，通过切分一次请求需要处理的app 的Batch size为更小的size，并利用多线程并行请求达到提高处理效率的目的。单次响应耗时从31ms下降到14ms。
+《Wide & Deep Learning for Recommender Systems》是Google 2016年发布的推荐框架，wide&deep设计了一种融合浅层（wide）模型和深层（deep）模型进行联合训练的框架，综合利用浅层模型的记忆能力和深层模型的泛化能力，实现单模型对推荐系统准确性和扩展性的兼顾。从推荐效果和服务性能两方面进行评价：效果上，在Google Play 进行线上A/B实验，wide&deep模型相比高度优化的Wide浅层模型，app下载率+3.9%。相比deep模型也有一定提升。性能上，通过切分一次请求需要处理的app 的Batch size为更小的size，并利用多线程并行请求达到提高处理效率的目的。单次响应耗时从31ms下降到14ms。
 
 https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/wide_deep    
 
@@ -24,8 +21,6 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/wide_deep
 
 https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 
-
-
 ### 协同过滤  
 1.[协同过滤推荐算法总结](https://www.cnblogs.com/pinard/p/6349233.html)  
 2.[基于协同过滤（CF）算法的推荐系统](https://cloud.tencent.com/developer/article/1604197)  
@@ -38,8 +33,6 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 3.[注意力机制在深度推荐算法中的应用之DIN模型](https://zhuanlan.zhihu.com/p/139417423)  
 4.[捕捉用户兴趣演化--DIEN论文解读](https://www.msedt.com/infoflow/details/1067)  
 5.[基于用户兴趣的商品推荐算法--DIN论文解读](https://blog.csdn.net/qzh459927216/article/details/111382916)  
-6.[]()  
-
    
 ### 总结类文章  
 1.[推荐算法相关](https://www.cnblogs.com/code2one/p/10366238.html)  
