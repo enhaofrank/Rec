@@ -26,7 +26,7 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 
 
 
-### 协调过滤  
+### 协同过滤  
 1.[协同过滤推荐算法总结](https://www.cnblogs.com/pinard/p/6349233.html)  
 2.[基于协同过滤（CF）算法的推荐系统](https://cloud.tencent.com/developer/article/1604197)  
 3.[协同过滤推荐算法（一）原理与实现](https://blog.csdn.net/likeyou1314918273/article/details/89607596)  
