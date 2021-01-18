@@ -47,7 +47,10 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 ### Item2Vec  
 1.[推荐算法商品相似度-Item2Vec](https://zhuanlan.zhihu.com/p/177031008)  
 
-
+### FM算法  
+1.[FM算法解析](https://zhuanlan.zhihu.com/p/37963267)  
+2.[FM系列算法解读(FM+FFM+DeepFM)](https://blog.csdn.net/hiwallace/article/details/81333604)  
+3.[FFM算法原理及Bi-FFM算法实现](https://zhuanlan.zhihu.com/p/145928996?utm_source=wechat_session)  
 
 
 参考资料：  
