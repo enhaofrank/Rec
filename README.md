@@ -42,7 +42,8 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 ### embedding  
 1.[关于embedding-深度学习基本操作](https://www.cnblogs.com/ljygoodgoodstudydaydayup/p/10839983.html)  
 
-      
+### Item2Vec  
+1.[推荐算法商品相似度-Item2Vec](https://zhuanlan.zhihu.com/p/177031008)  
 
 
 
