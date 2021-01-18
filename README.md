@@ -39,7 +39,9 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 1.[推荐算法相关](https://www.cnblogs.com/code2one/p/10366238.html)  
 2.[推荐系统遇上深度学习](http://ddrv.cn/a/40050)  
 
-   
+### embedding  
+1.[关于embedding-深度学习基本操作](https://www.cnblogs.com/ljygoodgoodstudydaydayup/p/10839983.html)  
+
       
 
 
