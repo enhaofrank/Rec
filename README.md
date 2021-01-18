@@ -41,6 +41,8 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 
 ### embedding  
 1.[关于embedding-深度学习基本操作](https://www.cnblogs.com/ljygoodgoodstudydaydayup/p/10839983.html)  
+2.[生动详解deepwalk算法（graph embedding）](https://zhuanlan.zhihu.com/p/58105731)  
+3.[万物皆可Embedding之Deepwalk算法解读](http://bbs.cnaiplus.com/thread-73263-1-1.html)
 
 ### Item2Vec  
 1.[推荐算法商品相似度-Item2Vec](https://zhuanlan.zhihu.com/p/177031008)  
