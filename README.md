@@ -39,7 +39,7 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 1.[推荐算法相关](https://www.cnblogs.com/code2one/p/10366238.html)  
 2.[推荐系统遇上深度学习](http://ddrv.cn/a/40050)  
 3.[常用召回和排序技术](https://dy.163.com/article/fa48umia0532e0uf.html)  
-
+4.[推荐引擎：召回和排序常见算法模型](http://www.bdata-cap.com/newsinfo/1854875.html)  
 ### embedding  
 1.[关于embedding-深度学习基本操作](https://www.cnblogs.com/ljygoodgoodstudydaydayup/p/10839983.html)  
 2.[生动详解deepwalk算法（graph embedding）](https://zhuanlan.zhihu.com/p/58105731)  
