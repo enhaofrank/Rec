@@ -54,6 +54,7 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 1.[FM算法解析](https://zhuanlan.zhihu.com/p/37963267)  
 2.[FM系列算法解读(FM+FFM+DeepFM)](https://blog.csdn.net/hiwallace/article/details/81333604)  
 3.[FFM算法原理及Bi-FFM算法实现](https://zhuanlan.zhihu.com/p/145928996?utm_source=wechat_session)  
+4.[深入FFM原理与实践](https://tech.meituan.com/2016/03/03/deep-understanding-of-ffm-principles-and-practices.html)  
 
 ### 用户画像
 1.[从0-1构建用户画像体系](https://zhuanlan.zhihu.com/p/138203827)  
