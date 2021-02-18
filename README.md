@@ -55,6 +55,7 @@ https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/deepfm
 2.[FM系列算法解读(FM+FFM+DeepFM)](https://blog.csdn.net/hiwallace/article/details/81333604)  
 3.[FFM算法原理及Bi-FFM算法实现](https://zhuanlan.zhihu.com/p/145928996?utm_source=wechat_session)  
 4.[深入FFM原理与实践](https://tech.meituan.com/2016/03/03/deep-understanding-of-ffm-principles-and-practices.html)  
+5.[FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650419793&idx=2&sn=50541c9e82190092175d03c292911cb7&chksm=becdb40b89ba3d1d0f35559926befc4fe5bacf6fada807a1b4ccf402a873d0e3c5ac65bc25d2&mpshare=1&scene=1&srcid=0113fPtZNSLxnatnE3fpw2nP&sharer_sharetime=1610494034534&sharer_shareid=546bd079429f4880a353b991a015fc00&key=3f904187a8d5ad8ce426adfb518640d40aa18f047193da8f16c2ec02ed6c7096d00e740d0b8a2647284bb10cf55d5dcbd2d8cc3c7841263f0adcaf8fb4614efd1676a59bc05c38e9fb92561a5fd2a20124efaa903f11969a5d502d587f1bccfa09f2578865c4b19634b07ae99f6345dfad3517458de7597e9ab893bbe1f922a6&ascene=1&uin=NjQ3MTEwMDA1&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AV2hmHxDzwF4BLL84%2BVRiig%3D&pass_ticket=lw0hW878LUMPybL6%2BpSFWryA6LlW3eYuIT%2FepYyfYcwQ%2FpVw6fmXAMwc0ixd6WKo&wx_header=0)  
 
 ### 用户画像
 1.[从0-1构建用户画像体系](https://zhuanlan.zhihu.com/p/138203827)  
